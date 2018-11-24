@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- подготовка к запуску -->
+    <string name="rm_old">Подготовка к обновлению&#8230;</string>
+    <string name="loading">Загрузка&#8230;</string>
+    <string name="notification_title">Загрузка SuperCraft</string>
+    <string name="notification_description">Осталось меньше минуты&#8230;</string>
+    <!-- разрешения -->
+    <string name="explain">Для корректной работы, игре требуется разрешение записывать в память устройтсва.</string>
+    <string name="location">Доступ к местоположению обеспечивает Вам лучшее взаимодействие с игрой</string>
+    <!-- диалог оценки -->
+    <string name="rta_dialog_title">Оцените SuperCraft!</string>
+    <string name="rate_title">Название</string>
+    <string name="rate_submit">ОЦЕНИТЬ</string>
+    <string name="rate_description">Описание</string>
+    <string name="sad">Нам жаль, что Вам не понравилась игра!</string>
+    <string name="recommend">Загрузка рекомендаций \n для Вас \n%1$s</string>
+    <!-- обновление -->
+    <string name="ignore">Игнорировать</string>
+    <string name="later">Позже</string>
+    <string name="update">Обновить</string>
+
+    <!-- reminder -->
+    <string name="message">Сообщение</string>
+
+    <!-- in-app -->
+    <string name="buy_title">Супер предложение!</string>
+    <string name="buy_message">Полностью отключите рекламу \n и активируйте Pro-режим со скидкой 75%!</string>
+    <string name="close">Закрыть</string>
+    <string name="disable">Отключить рекламу!</string>
+
+    <!-- no connection dialog -->
+    <string name="conn_message">Для полноценной игры, SuperCraft требует подключение к интернету.\nВ противном случае невозможно обновление игры, а так же не доступен мультиплеер!</string>
+    <string name="conn_wifi">Wi-Fi</string>
+    <string name="conn_mobile">3G/4G</string>
+    <string name="about_us">О НАС!</string>
+    <string name="about_us_go">НАЧАТЬ</string>
+    <string name="howto">КАК ИГРАТЬ</string>
+    <string name="howto_go">ОК</string>
+    <string name="rateus">НАМ ОЧЕНЬ ВАЖНО ВАШЕ МНЕНИЕ</string>
+    <string name="rateus_description">ОЦЕНИТЕ НАС</string>
+    <string name="about_us_description">Команда Craft Games Dev приветствует вас!\nМы являемся молодой амбициозной командой которая рада представить вам новую игру с элементами устрашения Scary Home Escape!</string>
+    <string name="howto_description">управление осуществляется двумя джойстиками. Джойстик, который расположен слева, отвечает за движение, а тот, что справа за действие.</string>
+    <string name="load">Загрузка</string>
+    <string name="check_internet">Проверьте ваше интернет-соединение</string>
+
+</resources>
